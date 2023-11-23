@@ -1,6 +1,6 @@
 # Cómo Hacer una Pizza de Pepperoni 🍕
 
-1. ## Ingredientes:
+1. ### Ingredientes:
   - Masa para pizza
   - Salsa de tomate
   - Queso mozzarella (o tu queso favorito)
