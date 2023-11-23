@@ -9,7 +9,7 @@
 2. ### ***Preparacion de la masa:***
   - Amasar la masa en una superficie enharinada hasta obtener el grosor deseado.
   - Colocar la masa en una bandeja para horno.
-3. ### Aplicación de la Salsa:
+3. ### ***Aplicación de la Salsa:***
   - Extender una capa uniforme de salsa de tomate sobre la masa.
 4. ### ***Agregado del Queso:***
   - Esparcir generosamente el queso mozzarella sobre la salsa.
