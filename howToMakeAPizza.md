@@ -6,7 +6,7 @@
   - Queso mozzarella (o tu queso favorito)
   - Pepperoni en rodajas
   - Oregano seco
-2. #### Preparacion de la masa:
+2. ### Preparacion de la masa:
   - Amasar la masa en una superficie enharinada hasta obtener el grosor deseado.
   - Colocar la masa en una bandeja para horno.
 3. ### Aplicación de la Salsa:
