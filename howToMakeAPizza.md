@@ -15,10 +15,6 @@
   - Esparcir generosamente el queso mozzarella sobre la salsa.
 5. ## Añadir Toppings:
   -Esparcir las rodajas de Pepperoni de manera uniforme junto con el oregano seco.
-
- 6. ## Cocinar en el Horno
-  - Precalentar el horno a la temperatura recomendada para pizza.
-  - Hornear la pizza hasta que la masa esté dorada y el queso burbujeante.
 7. ## Servir y Disfrutar:
   - Sacar la pizza del horno y dejar enfriar por unos minutos.
   - Cortar en porciones y ¡disfrutar de tu pizza.
